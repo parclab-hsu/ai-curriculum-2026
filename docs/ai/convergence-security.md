@@ -32,7 +32,7 @@
 | 기업 | 2024 매출 | AI 신사업 |
 | --- | --- | --- |
 | 안랩(코스피) | 2,606억원(+9%) | 'AhnLab AI PLUS', XDR AI어시스턴트 '애니', 'XTG' |
-| SK쉰더스(업계1위) | 2조 47억원(+7%) | '시큐디움' AI MXDR, 2026년까지 200억 투입 |
+| SK쉴더스(업계1위) | 2조 47억원(+7%) | '시큐디움' AI MXDR, 2026년까지 200억 투입 |
 | 이글루코퍼레이션 | 2025년 1,432억(+28.8%) | 'SPiDER ExD'(XDR/SaaS SIEM), AI에이전트 '에어' |
 | 윈스 | 965억원 | 'SNIPER AIVAX'(AI 무인 통합관제) |
 
@@ -45,7 +45,7 @@
 
 - 플랫폼 공고(조회 시점): LinkedIn "보안" 1,000+건, 잡코리아 "클라우드보안" 약 1,095건·"모의해킹" 약 101건.
 - **경력직 우위 구조 심화**: 2024년 정보보호산업 채용 신입 2,654명 vs 경력 5,170명(약 2:1). 보안관제 L1은 AI 자동화로 신입 자리 축소.
-- **주요 신입 채용처**: 안랩(2025 R&D 신입공채 10개 직무), SK쉰더스('Rookies'), 이글루·윈스, 금융보안원(2026 상반기 신입 20명 내외), 카카오/카카오뱅크, 삼성SDS.
+- **주요 신입 채용처**: 안랩(2025 R&D 신입공채 10개 직무), SK쉴더스('Rookies'), 이글루·윈스, 금융보안원(2026 상반기 신입 20명 내외), 카카오/카카오뱅크, 삼성SDS.
 - **빈출 신입 직무**: 보안관제(SOC), 침해대응/CERT, 모의해킹·취약점진단, 보안컨설팅, 보안솔루션 개발, 클라우드보안, 디지털포렌식.
 - **자격증 우선순위**: 정보보안기사(사실상 필수) > CISSP > ISMS-P 인증심사원 > CISA > CPPG > CEH/OSCP(공격직무) > AWS Security Specialty(클라우드).
 
@@ -53,7 +53,7 @@
 
 | 구분 | 내용 |
 | --- | --- |
-| **핵심 직무 역량** | 리눅스·네트워크/방화벽, SIEM(Splunk/ELK) 운영·탐지룰, EDR/DLP/WAF 튰닝, 로그·패킷 분석, MITRE ATT&CK 기반 침해대응, 취약점진단·모의해킹, ISMS-P/ISO27001, 개인정보 영향평가(PIA) |
+| **핵심 직무 역량** | 리눅스·네트워크/방화벽, SIEM(Splunk/ELK) 운영·탐지룰, EDR/DLP/WAF 튜닝, 로그·패킷 분석, MITRE ATT&CK 기반 침해대응, 취약점진단·모의해킹, ISMS-P/ISO27001, 개인정보 영향평가(PIA) |
 | **AI 융합 역량** | OWASP Top 10 for LLM/Agentic Applications 기반 프롬프트 인젝션·데이터 포이즌닝·민감정보 유출 대응, LLM Gateway, AI 레드팀, AI 활용 보안관제 자동화(SOAR), CI/CD 리스크 게이트 |
 | **주요 기술스택** | Python·Bash, AWS/Azure/GCP, Docker/Kubernetes, Terraform(IaC), Splunk/ELK, BAS, 디지털포렌식 도구 |
 | **자격·우대** | 정보보안기사, CISSP, ISMS-P 인증심사원, CISA, CPPG, OSCP/CEH(공격직무), AWS Security Specialty·CKS(클라우드) |
@@ -63,7 +63,7 @@
 **대기업/대형**
 
 - 통신3사: SKT(2025 해킹 후 보안인력 2배 확충, Red Team), KT(SOAR/AI SIEM, Public Cloud), LG U+(침해대응 EDR/포렌식, 모의해킹)
-- 보안전문: SK쉰더스(모의해킹·CERT·클라우드 융합보안), 안랩(관제분석·취약점진단·디지털포렌식), 케이사인
+- 보안전문: SK쉴더스(모의해킹·CERT·클라우드 융합보안), 안랩(관제분석·취약점진단·디지털포렌식), 케이사인
 - SI/플랫폼: LG CNS(보안관제·AI보안 LLM 취약점), 삼성SDS(CSIRT·포렌식·모의해킹), 네이버클라우드, 카카오, 쿠팡(Cybersecurity AI Engineer)
 
 **중견 보안기업**
@@ -83,7 +83,7 @@
 ## 7. 출처
 
 - 정부·기관: [kisia.or.kr](http://kisia.or.kr) 정보보호산업 실태조사 / 제로트러스트 가이드라인 2.0 / [privacy.go.kr](http://privacy.go.kr) / 사이버보안 인력수급 실태조사
-- 기업 실적: [company.ahnlab.com](http://company.ahnlab.com) / boannews(SK쉰더스·이글루) / fnguide(윈스)
+- 기업 실적: [company.ahnlab.com](http://company.ahnlab.com) / boannews(SK쉴더스·이글루) / fnguide(윈스)
 - 채용·역량: boannews 자격증 우대 분석 / [fsec.or.kr](http://fsec.or.kr) / [owasp.org](http://owasp.org) LLM Top 10 / [ncs.go.kr](http://ncs.go.kr) / [careers.kakao.com](http://careers.kakao.com) / [coupang.jobs](http://coupang.jobs)
 
 > 추정·주의: 시장규모는 정부 실태조사(매출)와 민간 백서(시장규모)가 산정기준 상이. CNAPP/EDR/XDR 국내 금액, AI 전담 보안 채용 구체 요건은 추정. 사람인·원티드 실시간 총 공고 수는 자동 추출 불가.

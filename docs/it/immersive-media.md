@@ -55,8 +55,8 @@
 
 ## 7. 출처
 
-- 2025년 다시 뜨는 XR 산업(레플) / 삼정KPMG XR 이슈모니터 2025
-- 자이언트스텝 버추얼휴먼(EPNC) / 비브스튜디오스 XR(헤랄경제)
+- 2025년 다시 뜨는 XR 산업(렛플) / 삼정KPMG XR 이슈모니터 2025
+- 자이언트스텝 버추얼휴먼(EPNC) / 비브스튜디오스 XR(헤럴드경제)
 - 메타버스 펀드 400억원(SMART CITY KOREA) / ETRI 3D Gaussian Splatting 압축 표준화
 - NVIDIA GTC 2026 — 가상세계/피지컬 AI / 삼성 갤럭시 XR(테크데일리) / LG AI 스마트글래스(전자신문)
 - NAVER Z 채용 / ZEP 채용
