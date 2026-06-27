@@ -76,4 +76,7 @@
 !!! warning "데이터 주의"
     `reported`=출처 보고값, `estimated`=인접 연도·성장률로 역산한 추정값(차트에서 사각형·흐린 마커). 추세선은 3개 연도 선형회귀(`numpy.polyfit`, deg=1) 기울기.
 
-**출처**: 사람인 「2026 정규직 채용계획」(327개사)·「2025 채용계획」(511개사) · 원티드랩 「2026 채용 트렌드 서베이」(153개사) · LinkedIn Korea 2025 하반기 채용공고 분석 · Gartner Top Strategic Technology Trends 2024/2025/2026 · Physical AI/Humanoid 시장보고서(Grand View, MarketsandMarkets 등), CES 2025·2026
+!!! info "국가 공식 통계 보강"
+    민간 채용 플랫폼 기반의 위 분석은 **[고용노동부 취업동향·10년 전망](employment-outlook.md)** 페이지에서 국가 공식 통계(중장기 인력수급 전망, AI·디지털 전환 고용구조 재편)로 교차 검증됩니다. 향후 10년 **추가 필요인력 122.2만 명**, 수요의 **고숙련·AI·돌봄 직종 집중**이 본 추세와 동일 방향입니다.
+
+**출처**: 사람인 「2026 정규직 채용계획」(327개사)·「2025 채용계획」(511개사) · 원티드랩 「2026 채용 트렌드 서베이」(153개사) · LinkedIn Korea 2025 하반기 채용공고 분석 · Gartner Top Strategic Technology Trends 2024/2025/2026 · Physical AI/Humanoid 시장보고서(Grand View, MarketsandMarkets 등), CES 2025·2026 · **고용노동부·한국고용정보원 중장기 인력수급 전망(2024~2034, 2023~2033)·AI 디지털 전환 고용구조 재편 전망** · 통계청·고용노동부 고용동향(2025)

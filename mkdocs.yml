@@ -37,6 +37,7 @@ markdown_extensions:
 nav:
   - 홈: index.md
   - 분석 개요: overview.md
+  - 고용노동부 취업동향·10년 전망: employment-outlook.md
   - 디자인대학 (AI디자인대학):
       - AI패션학부 · 패션마케팅트랙: design/fashion-marketing.md
       - AI패션학부 · 패션디자인트랙: design/fashion-design.md
