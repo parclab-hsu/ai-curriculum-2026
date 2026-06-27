@@ -37,7 +37,7 @@
 | 글로벌 AI 지출 | ~$1.20T | ~$1.75T | $2.52T | +$0.66T/년 (2026 +44% YoY) |
 
 - **Physical AI 시장**이 가장 큰 절대 성장 → 로봇·드론·스마트장비가 파일럿에서 양산 단계로.
-- Humanoid: NVIDIA(Cosmos·GR00T), Tesla(Optimus Gen3, 2026.1 양산), Boston Dynamics(현대 Atlas), Agility(Amazon Digit) 상용 배치 본격화.
+- Humanoid: NVIDIA(Cosmos·GR00T), Tesla(Optimus, 2026년 양산 준비·생산 확대 목표), Boston Dynamics(현대 Atlas), Agility(Amazon Digit) 상용 배치 본격화.
 
 ## 4. 연도별 기술 패러다임
 
@@ -49,7 +49,10 @@
 
 ## 5. 2026학년도 AI융합교육과정 개편 대상 트랙(학과)
 
-□ 대상: 2026학년도 AI융합교육과정 개편 대상 트랙(학과) — 괄호 안은 변경 후 명칭. 각 트랙명을 클릭하면 상세 분석으로 이동합니다.
+□ 대상: 2026학년도 AI융합교육과정 개편 대상 트랙(학과) — **괄호 안은 2027학년도 이후 개편(예정) 명칭**(2026학년도 현재 명칭은 좌측 단과대학·학부 기준). 각 트랙명을 클릭하면 상세 분석으로 이동합니다.
+
+!!! note "조직 명칭·신설 시점 주의"
+    한성대 학칙 기준 **2026학년도 현재는 창의융합대학**, **2027학년도 이후 개편명이 AI융합대학**이다. 단과대학 단위 `AI` 접두어(AI디자인대학·AI융합대학 등)는 2027학년도 이후 명칭이다. 또한 **AI기계로봇공학과는 2027학년도 신설 예정**으로, 2026학년도 개편 대상이 아닌 신설 예정 학과로 본다.
 
 | 단과대학 | 학부 | 트랙·학과 |
 |---|---|---|
@@ -60,10 +63,10 @@
 | | 기계전자공학부 (전기전자공학부) | [전자트랙](it/electronics.md) / [시스템반도체트랙](it/system-semiconductor.md) |
 | | 산업시스템공학부 | [산업공학트랙](it/industrial-engineering.md) / [응용산업데이터공학트랙](it/applied-industrial-data.md) |
 | 창의융합대학 (AI융합대학) | (AI학부) | [AI응용학과](ai/ai-application.md) / [융합보안학과](ai/convergence-security.md) |
-| | (AI융합학부) | [미래모빌리티학과](ai/future-mobility.md) / [문학문화콘텐츠학과](ai/literature-culture-contents.md) / [AI기계로봇공학과(신설)](ai/ai-robotics.md) |
+| | (AI융합학부) | [미래모빌리티학과](ai/future-mobility.md) / [문학문화콘텐츠학과](ai/literature-culture-contents.md) / [AI기계로봇공학과(2027학년도 신설 예정)](ai/ai-robotics.md) |
 
 - 단과대학 단위까지 **`AI` 접두어**가 부여되는 전면 개편 → 기업 채용시장의 AI 역량 수요 우상향(+11.9%p/년)과 동일 방향의 공급측 신호.
-- **미래모빌리티학과**는 (AI융합학부) 산하에 위치, 신설되는 **AI기계로봇공학과**와 같은 학부로 묶임 → PARC Lab의 Physical AI·로봇·모빌리티 도메인과 조직 구조가 직접 정렬.
+- **미래모빌리티학과**는 (AI융합학부) 산하에 위치, **2027학년도 신설 예정인 AI기계로봇공학과**와 같은 학부로 묶임 → PARC Lab의 Physical AI·로봇·모빌리티 도메인과 조직 구조가 직접 정렬.
 
 ## 6. 트랙별 학생 학습경로 (4개 예시 구조)
 

@@ -11,7 +11,7 @@ UX/UI디자인트랙은 디지털 제품·서비스의 **사용자 경험(UX)과
 ## 2. 산업·기술 트렌드 (2024–2026)
 
 - **AI 디자인 도구의 주류화**: **Figma Make**(텍스트→동작 프로토타입), Figma Sites/Draw/Buzz(Config 2025), **v0 by Vercel**(자연어→React/Next.js 코드), Galileo AI→**Google Stitch**, Uizard·UX Pilot·Relume 등 text-to-design/code 도구 급속 확산. 단 NN/g 평가는 'not ready for primetime(2024) → marginally better(2025)' — AI를 '인턴처럼' 감독 필요.
-- **에이전트 AI + 디자인시스템**: **Figma 2025 AI Report**(표본 2,500명) — 에이전틱 AI 제품 구축 기업 **21% → 51%**로 2배 이상 증가. Figma MCP Server(GA), W3C Design Tokens 1.0 첫 안정 스펙(2025.10).
+- **에이전트 AI + 디자인시스템**: **Figma 2025 AI Report**(표본 2,500명) — 에이전틱 AI 제품 구축 기업 **21% → 51%**로 2배 이상 증가. Figma MCP Server(GA), Design Tokens Community Group(DTCG) 1.0 첫 안정 사양(2025.10) — 단, W3C 공식 표준(Standards Track)은 아님.
 - **한국 기업 실증**: **토스**는 'AI가 디자인한 화면이 실제 제품에 적용' 시작, **우아한형제들**은 디자인시스템 RAG 챗봇 구축(2026.5), **오늘의집**은 Figma Make+Claude Code+MCP로 UT 세팅 2시간→15분, **KT**는 'AI Agent UX Guide + KT UX Design System v1.0' 공개(2025.10).
 
 ## 3. 채용 동향
@@ -53,7 +53,7 @@ UX/UI디자인트랙은 디지털 제품·서비스의 **사용자 경험(UX)과
 ## 7. 출처
 
 - Figma 2025 AI Report / Figma Make·Config 2025 / v0·Galileo·Relume
-- NN/g UX 리셋 / MCP·Design Tokens(W3C)
+- NN/g UX 리셋 / MCP·Design Tokens(DTCG)
 - 채용 -70.2%(팀캔디드) / 원티드랩 2026 / 연봉(그룹바이)
 - 기업: 토스테크·우아한기술블로그·오늘의집·디자인컴퍼스(KT)·당근·카카오·네이버·라인
 
