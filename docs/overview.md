@@ -34,7 +34,9 @@
 
 | 지표 | 2024 | 2025 | 2026 | 연 추세 |
 |---|---|---|---|---|
-| 글로벌 AI 지출 | ~$1.20T | ~$1.75T | $2.52T | +$0.66T/년 (2026 +44% YoY) |
+| 글로벌 AI 지출·투자 전망 | ~$1.20T | ~$1.75T | $2.52T | +$0.66T/년 (2026 +44% YoY) |
+
+> 위 'AI 지출·투자 전망'은 IDC·Gartner 등의 **지출(spending) 전망**으로, 특정 제품 **시장 규모(market size)**와는 정의가 다르다.
 
 - **Physical AI 시장**이 가장 큰 절대 성장 → 로봇·드론·스마트장비가 파일럿에서 양산 단계로.
 - Humanoid: NVIDIA(Cosmos·GR00T), Tesla(Optimus, 2026년 양산 준비·생산 확대 목표), Boston Dynamics(현대 Atlas), Agility(Amazon Digit) 상용 배치 본격화.
