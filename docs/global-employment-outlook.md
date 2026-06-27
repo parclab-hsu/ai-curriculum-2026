@@ -86,10 +86,12 @@
 
 ## 6. 출처
 
-- **U.S. Bureau of Labor Statistics** — Employment Projections 2024–2034 (보도자료 2025.08.28 발표; 2026년 Monthly Labor Review 해설 기사 참조)
-- **World Economic Forum** — The Future of Jobs Report 2025 (2025.01)
-- **International Federation of Robotics (IFR)** — World Robotics / China robot installation 통계
-- 중국 국가통계국(인구·생산가능인구) · 중국 정부 AI·휴머노이드 산업정책 및 산업 보도(2025~2026)
+> 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
+
+- **U.S. Bureau of Labor Statistics** — 「Employment Projections 2024–2034」 (보도자료 2025.08.28 발표; 2026년 Monthly Labor Review 해설 기사 참조)
+- **World Economic Forum** — 「The Future of Jobs Report 2025」 (2025.01)
+- **International Federation of Robotics (IFR)** — 「World Robotics」 · China robot installation 통계
+- **중국 국가통계국·중국 정부** — 인구·생산가능인구 통계, AI·휴머노이드 산업정책 및 산업 보도 (2025~2026)
 
 !!! warning "데이터 주의"
     국가·기관별 발표 시점과 집계 기준(직종 분류·연도 범위)이 달라 절대 수치의 직접 비교에는 한계가 있습니다. 본 페이지는 **방향성(추세) 비교**를 목적으로 하며, 인용 시 원문 최신판을 함께 확인하십시오.

@@ -37,6 +37,8 @@
 
 ## 주요 출처
 
+> 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
+
 - **교육과정:** 한성대학교 공식 학과/트랙 교육과정 — [디자인대학](https://www.hansung.ac.kr/Design/index.do) · [IT공과대학](https://www.hansung.ac.kr/Engineering/index.do) · [창의융합대학](https://www.hansung.ac.kr/CreCon/index.do)
 - **채용·산업:** 사람인·잡코리아·원티드·LinkedIn 채용공고, Gartner·삼성패션연구소·Figma 등 산업 보고서(각 트랙 페이지 「출처」 참조)
 - **거시 고용:** [고용노동부·한국고용정보원 중장기 인력수급 전망](employment-outlook.md) · [미국 BLS](https://www.bls.gov/emp/)·[WEF Future of Jobs 2025](global-employment-outlook.md)

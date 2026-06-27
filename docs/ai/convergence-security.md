@@ -91,9 +91,21 @@
 
 ## 7. 출처
 
-- 정부·기관: [kisia.or.kr](http://kisia.or.kr) 정보보호산업 실태조사 / 제로트러스트 가이드라인 2.0 / [privacy.go.kr](http://privacy.go.kr) / 사이버보안 인력수급 실태조사
-- 기업 실적: [company.ahnlab.com](http://company.ahnlab.com) / boannews(SK쉴더스·이글루) / fnguide(윈스)
-- 채용·역량: boannews 자격증 우대 분석 / [fsec.or.kr](http://fsec.or.kr) / [owasp.org](http://owasp.org) LLM Top 10 / [ncs.go.kr](http://ncs.go.kr) / [careers.kakao.com](http://careers.kakao.com) / [coupang.jobs](http://coupang.jobs)
+> 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
+
+- **kisia.or.kr** — 「정보보호산업 실태조사」 · <http://kisia.or.kr>
+- **과기정통부·KISA** — 「제로트러스트 가이드라인 2.0」
+- **privacy.go.kr** — 「정부·기관 자료」 · <http://privacy.go.kr>
+- **사이버보안 인력수급 실태조사** — 「사이버보안 인력수급 실태조사」
+- **company.ahnlab.com** — 「기업 실적」 · <http://company.ahnlab.com>
+- **boannews** — 「SK쉴더스·이글루 실적」
+- **fnguide** — 「윈스 실적」
+- **boannews** — 「자격증 우대 분석」
+- **fsec.or.kr** — 「채용·역량 자료」 · <http://fsec.or.kr>
+- **owasp.org** — 「LLM Top 10」 · <http://owasp.org>
+- **ncs.go.kr** — 「채용·역량 자료」 · <http://ncs.go.kr>
+- **careers.kakao.com** — 「채용 직무」 · <http://careers.kakao.com>
+- **coupang.jobs** — 「채용 직무」 · <http://coupang.jobs>
 
 > 추정·주의: 시장규모는 정부 실태조사(매출)와 민간 백서(시장규모)가 산정기준 상이. CNAPP/EDR/XDR 국내 금액, AI 전담 보안 채용 구체 요건은 추정. 사람인·원티드 실시간 총 공고 수는 자동 추출 불가.
 

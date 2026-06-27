@@ -89,10 +89,23 @@ AI기계로봇공학과는 **기계공학(4대 역학·기계설계·제조)을 
 
 ## 7. 출처
 
-- NVIDIA GR00T / Physical AI '세 대의 컴퓨터'([blogs.nvidia.com](http://blogs.nvidia.com)) / Boston Dynamics Atlas / Tesla Optimus(Electrek)
-- Goldman Sachs / MarketsandMarkets / Mordor 시장전망
-- 두산로보틱스(ZDNet) / 레인보우로보틱스(탑데일리) / 로보티즈 IR / 제4차 지능형로봇 기본계획(KDI) / K-휴머노이드 연합([korea.net](http://korea.net))
-- 채용: 잡코리아 ros2 / 네이버랩스 / 위로봇틱스·클로봇(원티드)
+> 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
+
+- **NVIDIA** — 「GR00T」
+- **NVIDIA** — 「Physical AI '세 대의 컴퓨터'」 · [blogs.nvidia.com](http://blogs.nvidia.com)
+- **Boston Dynamics** — 「Atlas」
+- **Electrek** — 「Tesla Optimus」
+- **Goldman Sachs** — 「시장전망」
+- **MarketsandMarkets** — 「시장전망」
+- **Mordor** — 「시장전망」
+- **ZDNet** — 「두산로보틱스」
+- **탑데일리** — 「레인보우로보틱스」
+- **로보티즈** — 「로보티즈 IR」
+- **KDI** — 「제4차 지능형로봇 기본계획」
+- **korea.net** — 「K-휴머노이드 연합」 · [korea.net](http://korea.net)
+- **잡코리아** — 「채용: ros2」
+- **네이버랩스** — 「채용」
+- **원티드** — 「채용: 위로봇틱스·클로봇」
 
 ## 8. 교육 목표 (예시)
 

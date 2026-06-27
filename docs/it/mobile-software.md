@@ -63,11 +63,16 @@
 
 ## 7. 출처
 
-- 토스피드 — 2025 토스 NEXT 개발자 챌린지 / 전자신문 — "50명 채용"
-- Android Developers — Gemini Nano / On-device GenAI APIs
-- Apple Developer — Foundation Models framework (WWDC25)
-- JetBrains — Kotlin Multiplatform Roadmap 2025 / SK DevOcean — KMP iOS 도입 경험
-- 원티드 — 네이버제트 Android 공고 / 당근 채용 — iOS Software Engineer
+> 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
+
+- **토스피드** — 「2025 토스 NEXT 개발자 챌린지」
+- **전자신문** — 「50명 채용」
+- **Android Developers** — 「Gemini Nano / On-device GenAI APIs」
+- **Apple Developer** — 「Foundation Models framework」 (WWDC25)
+- **JetBrains** — 「Kotlin Multiplatform Roadmap 2025」
+- **SK DevOcean** — 「KMP iOS 도입 경험」
+- **원티드** — 「네이버제트 Android 공고」
+- **당근 채용** — 「iOS Software Engineer」
 
 ## 8. 교육 목표 (예시)
 

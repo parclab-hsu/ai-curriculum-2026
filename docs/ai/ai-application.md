@@ -90,10 +90,24 @@
 
 ## 7. 출처
 
-- 산업·기술: LG/SKT/카카오/네이버/KT 보도·공식 / irobotnews / HuggingFace
-- 정부 정책: [korea.kr](http://korea.kr) 정책브리핑 / AI 기본법([law.go.kr](http://law.go.kr)) / [msit.go.kr](http://msit.go.kr)
-- 채용 동향: 잡코리아 AI 채용 트렌드 / 한국데이터경제신문 / [dataq.or.kr](http://dataq.or.kr)
-- 역량·스택·기업: [wanted.co.kr](http://wanted.co.kr) / [recruit.navercorp.com](http://recruit.navercorp.com) / [careers.kakao.com](http://careers.kakao.com) / [lgresearch.ai](http://lgresearch.ai) / [toss.im](http://toss.im) / daangn / upstage
+> 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
+
+- **LG·SKT·카카오·네이버·KT** — 「산업·기술 보도·공식 자료」
+- **irobotnews** — 「산업·기술 보도」
+- **HuggingFace** — 「산업·기술 자료」
+- **korea.kr** — 「정책브리핑」 · <http://korea.kr>
+- **law.go.kr** — 「AI 기본법」 · <http://law.go.kr>
+- **msit.go.kr** — 「정부 정책」 · <http://msit.go.kr>
+- **잡코리아** — 「AI 채용 트렌드」
+- **한국데이터경제신문** — 「채용 동향」
+- **dataq.or.kr** — 「채용 동향」 · <http://dataq.or.kr>
+- **wanted.co.kr** — 「역량·스택·기업」 · <http://wanted.co.kr>
+- **recruit.navercorp.com** — 「역량·스택·기업」 · <http://recruit.navercorp.com>
+- **careers.kakao.com** — 「역량·스택·기업」 · <http://careers.kakao.com>
+- **lgresearch.ai** — 「역량·스택·기업」 · <http://lgresearch.ai>
+- **toss.im** — 「역량·스택·기업」 · <http://toss.im>
+- **daangn** — 「역량·스택·기업」
+- **upstage** — 「역량·스택·기업」
 
 > 추정·주의: 잡코리아 스킬 증가율(미국 데이터), 뒤튼 MAU·투자액, AI 직무 연봉 일부, 중견/대기업 분류는 추정 또는 2차 출처 기반.
 
