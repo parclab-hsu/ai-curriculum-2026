@@ -50,6 +50,12 @@
 | ML/MLOps | ML 알고리즘 구현, 모델 서빙·배포, 분산 컴퓨팅 |
 | AI 융합 역량 | LLM 파인튜닝, RAG 파이프라인, 벡터DB(Pinecone·FAISS·Milvus·Qdrant), LangGraph, Agentic AI, Prompt Engineering, 멀티모달 |
 
+!!! tip "추가 보강 제안 (2026 개편 반영안 · 공식 교과 아님)"
+    공식 교과를 대체하지 않는 **추가 보강 방향**이다(신설/심화 제안).
+    - **추가 기술트렌드:** Lakehouse · Vector DB · RAGOps · 데이터 거버넌스
+    - **추가 직무역량:** SQL · DuckDB/dbt · 벡터검색 · 평가 데이터셋 구축
+    - **교육과정 보강(제안):** 벡터DB/RAG 평가 · 데이터 품질관리 추가
+
 ## 5. 대표 채용 기업 & 직무 예시
 
 | 구분 | 기업 | 직무 예시 |

@@ -67,6 +67,12 @@
 | **주요 기술스택** | Python·Bash, AWS/Azure/GCP, Docker/Kubernetes, Terraform(IaC), Splunk/ELK, BAS, 디지털포렌식 도구 |
 | **자격·우대** | 정보보안기사, CISSP, ISMS-P 인증심사원, CISA, CPPG, OSCP/CEH(공격직무), AWS Security Specialty·CKS(클라우드) |
 
+!!! tip "추가 보강 제안 (2026 개편 반영안 · 공식 교과 아님)"
+    공식 교과를 대체하지 않는 **추가 보강 방향**이다(신설/심화 제안).
+    - **추가 기술트렌드:** AI 보안 · 프롬프트 인젝션 · 모델 공급망 · SOAR
+    - **추가 직무역량:** 위협모델링 · AI 레드팀 · 로그분석 · 정책
+    - **교육과정 보강(제안):** LLM 보안 · AI 보안운영 실습
+
 ## 5. 대표 채용 기업 & 직무 예시
 
 **대기업/대형**

@@ -49,6 +49,12 @@
 | AI 융합 역량 | AI 리터러시, 온디바이스 AI((Android)Gemini Nano·ML Kit GenAI·AICore / (iOS)Foundation Models framework), AI 코딩 어시스턴트(GitHub Copilot·Claude Code·Cursor) |
 | 기술스택 | (Android) Kotlin·Jetpack Compose·Coroutine/Flow / (iOS) Swift·SwiftUI·async/await / (크로스) Flutter·Kotlin Multiplatform / (AI) Gemini Nano·Apple Foundation Models·ExecuTorch |
 
+!!! tip "추가 보강 제안 (2026 개편 반영안 · 공식 교과 아님)"
+    공식 교과를 대체하지 않는 **추가 보강 방향**이다(신설/심화 제안).
+    - **추가 기술트렌드:** 온디바이스 AI · 모바일 에이전트 · 개인정보 보호 추론
+    - **추가 직무역량:** Swift/Kotlin · Core ML/Gemini Nano · 경량 모델 배포
+    - **교육과정 보강(제안):** 온디바이스 AI 앱 · 모바일 RAG 실습
+
 ## 5. 대표 채용 기업 & 직무 예시
 
 - **대기업/플랫폼**: 삼성전자(Galaxy AI·온디바이스 SW), 네이버·네이버제트(Android/iOS), 카카오·카카오모빌리티, 쿠팡(모바일 엔지니어), SK(에이닷 — KMP iOS)

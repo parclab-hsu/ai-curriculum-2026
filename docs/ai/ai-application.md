@@ -66,6 +66,12 @@
 | **주요 기술스택** | Python, PyTorch/TensorFlow, scikit-learn, LangChain/LlamaIndex, 벡터DB(Pinecone·Weaviate·Milvus·Qdrant·pgvector·FAISS), 추론최적화(vLLM·TensorRT-LLM), Hugging Face, Docker/Kubernetes, 클라우드(AWS·GCP·Azure), MLOps(MLflow·Kubeflow·BentoML·Triton) |
 | **자격·우대** | 빅데이터분석기사, ADsP/ADP, SQLD, 클라우드 자격(AWS/GCP) |
 
+!!! tip "추가 보강 제안 (2026 개편 반영안 · 공식 교과 아님)"
+    공식 교과를 대체하지 않는 **추가 보강 방향**이다(신설/심화 제안).
+    - **추가 기술트렌드:** LLM 앱 · 멀티모달 AI · 에이전트 · AI 안전성
+    - **추가 직무역량:** RAG · 평가 · MLOps · 프롬프트/도구 사용
+    - **교육과정 보강(제안):** LLM 평가-운영 · 에이전트 시스템 설계
+
 ## 5. 대표 채용 기업 & 직무 예시
 
 **대기업**
