@@ -30,6 +30,8 @@
 | **Physical AI** | ~$60.0B | $81.6B | $110.8B | **+$25.4B/년 (CAGR≈36%)** |
 | Humanoid 로봇 | ~$3.8B | $4.89B | $6.24B | +$1.2B/년 |
 
+> **Physical AI 시장 정의 주의:** 위 $110.8B(2026)는 로봇·휴머노이드·자율 이동체·Embodied AI를 포함한 **광의의 복합 추정**이다. 좁은 정의의 'Physical AI 시장'은 [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/physical-ai-market-240269196.html) 기준 **2026년 $1.50B → 2032년 $15.24B**로 규모 정의가 다르다.
+
 ![글로벌 AI 지출 추세](assets/charts/global_ai_spending_trend.png)
 
 | 지표 | 2024 | 2025 | 2026 | 연 추세 |

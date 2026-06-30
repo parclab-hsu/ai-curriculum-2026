@@ -16,7 +16,7 @@
 
 > 단과대학·학부 명칭 중 `AI` 접두어가 붙은 괄호명(AI디자인대학·AI융합대학 등)은 **2027학년도 이후 개편(예정) 명칭**입니다. 2026학년도 현재 명칭은 디자인대학·IT공과대학·**창의융합대학**입니다. **AI기계로봇공학과는 2027학년도 신설 예정**입니다.
 
-### 디자인대학 (AI디자인대학)
+### 디자인대학 (2027~ AI디자인대학)
 
 - AI패션학부 — [패션마케팅트랙](design/fashion-marketing.md) · [패션디자인트랙](design/fashion-design.md) · [패션크리에이티브디렉션트랙](design/fashion-creative-direction.md)
 - AI융합디자인학부 — [미디어디자인트랙](design/media-design.md) · [시각디자인트랙](design/visual-design.md) · [영상애니메이션디자인트랙](design/motion-animation.md) · [게임그래픽디자인트랙](design/game-graphic.md) · [인테리어디자인트랙](design/interior-design.md) · [VMD전시디자인트랙](design/vmd-exhibition.md) · [UX/UI디자인트랙](design/uxui-design.md)
@@ -25,10 +25,10 @@
 ### IT공과대학
 
 - 컴퓨터공학부 — [모바일소프트웨어트랙](it/mobile-software.md) · [빅데이터트랙](it/big-data.md) · [지능형실감미디어공학트랙](it/immersive-media.md) · [웹공학트랙](it/web-engineering.md)
-- 전기전자공학부 — [전자트랙](it/electronics.md) · [시스템반도체트랙](it/system-semiconductor.md)
+- 기계전자공학부 (2027~ 전기전자공학부) — [전자트랙](it/electronics.md) · [시스템반도체트랙](it/system-semiconductor.md)
 - 산업시스템공학부 — [산업공학트랙](it/industrial-engineering.md) · [응용산업데이터공학트랙](it/applied-industrial-data.md)
 
-### 창의융합대학 (AI융합대학)
+### 창의융합대학 (2027~ AI융합대학)
 
 - AI학부 — [AI응용학과](ai/ai-application.md) · [융합보안학과](ai/convergence-security.md)
 - AI융합학부 — [미래모빌리티학과](ai/future-mobility.md) · [문학문화콘텐츠학과](ai/literature-culture-contents.md) · [AI기계로봇공학과(2027학년도 신설 예정)](ai/ai-robotics.md)

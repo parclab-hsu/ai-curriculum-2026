@@ -44,30 +44,30 @@ nav:
   - 고용노동부 취업동향·10년 전망: employment-outlook.md
   - 글로벌 비교 (미국·중국): global-employment-outlook.md
   - 공통 채용 데이터 출처: data-sources.md
-  - 디자인대학 (AI디자인대학):
-      - AI패션학부 · 패션마케팅트랙: design/fashion-marketing.md
-      - AI패션학부 · 패션디자인트랙: design/fashion-design.md
-      - AI패션학부 · 패션크리에이티브디렉션트랙: design/fashion-creative-direction.md
-      - AI융합디자인학부 · 미디어디자인트랙: design/media-design.md
-      - AI융합디자인학부 · 시각디자인트랙: design/visual-design.md
-      - AI융합디자인학부 · 영상애니메이션디자인트랙: design/motion-animation.md
-      - AI융합디자인학부 · 게임그래픽디자인트랙: design/game-graphic.md
-      - AI융합디자인학부 · 인테리어디자인트랙: design/interior-design.md
-      - AI융합디자인학부 · VMD전시디자인트랙: design/vmd-exhibition.md
-      - AI융합디자인학부 · UX/UI디자인트랙: design/uxui-design.md
-      - AI뷰티디자인학과: design/beauty-design.md
+  - 디자인대학 (2027~ AI디자인대학):
+      - 글로벌패션산업학부 · 패션마케팅트랙: design/fashion-marketing.md
+      - 글로벌패션산업학부 · 패션디자인트랙: design/fashion-design.md
+      - 글로벌패션산업학부 · 패션크리에이티브디렉션트랙: design/fashion-creative-direction.md
+      - ICT디자인학부 · 미디어디자인트랙: design/media-design.md
+      - ICT디자인학부 · 시각디자인트랙: design/visual-design.md
+      - ICT디자인학부 · 영상애니메이션디자인트랙: design/motion-animation.md
+      - ICT디자인학부 · 게임그래픽디자인트랙: design/game-graphic.md
+      - ICT디자인학부 · 인테리어디자인트랙: design/interior-design.md
+      - ICT디자인학부 · VMD전시디자인트랙: design/vmd-exhibition.md
+      - ICT디자인학부 · UX/UI디자인트랙: design/uxui-design.md
+      - 뷰티디자인매니지먼트학과 (2027~ AI뷰티디자인학과): design/beauty-design.md
   - IT공과대학:
       - 컴퓨터공학부 · 모바일소프트웨어트랙: it/mobile-software.md
       - 컴퓨터공학부 · 빅데이터트랙: it/big-data.md
-      - 컴퓨터공학부 · 지능형실감미디어공학트랙: it/immersive-media.md
+      - 컴퓨터공학부 · 디지털콘텐츠·가상현실트랙: it/immersive-media.md
       - 컴퓨터공학부 · 웹공학트랙: it/web-engineering.md
-      - 전기전자공학부 · 전자트랙: it/electronics.md
-      - 전기전자공학부 · 시스템반도체트랙: it/system-semiconductor.md
+      - 기계전자공학부 (2027~ 전기전자공학부) · 전자트랙: it/electronics.md
+      - 기계전자공학부 (2027~ 전기전자공학부) · 시스템반도체트랙: it/system-semiconductor.md
       - 산업시스템공학부 · 산업공학트랙: it/industrial-engineering.md
       - 산업시스템공학부 · 응용산업데이터공학트랙: it/applied-industrial-data.md
-  - 창의융합대학 (AI융합대학):
-      - AI학부 · AI응용학과: ai/ai-application.md
-      - AI학부 · 융합보안학과: ai/convergence-security.md
-      - AI융합학부 · 미래모빌리티학과: ai/future-mobility.md
-      - AI융합학부 · 문학문화콘텐츠학과: ai/literature-culture-contents.md
-      - AI융합학부 · AI기계로봇공학과(신설): ai/ai-robotics.md
+  - 창의융합대학 (2027~ AI융합대학):
+      - AI응용학과: ai/ai-application.md
+      - 융합보안학과: ai/convergence-security.md
+      - 미래모빌리티학과: ai/future-mobility.md
+      - 문학문화콘텐츠학과: ai/literature-culture-contents.md
+      - AI기계로봇공학과 (2027 신설 예정): ai/ai-robotics.md
