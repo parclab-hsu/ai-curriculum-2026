@@ -102,7 +102,7 @@
 - **irobotnews** — 「산업·기술 보도」
 - **HuggingFace** — 「산업·기술 자료」
 - **korea.kr** — 「정책브리핑」 · <http://korea.kr>
-- **law.go.kr** — 「AI 기본법」 · <http://law.go.kr>
+- **국가법령정보센터** — 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」(2026-01-22 시행) · <https://www.law.go.kr/lsInfoP.do?lsiSeq=268543> · 확인일 2026-07-01
 - **msit.go.kr** — 「정부 정책」 · <http://msit.go.kr>
 - **잡코리아** — 「AI 채용 트렌드」
 - **한국데이터경제신문** — 「채용 동향」

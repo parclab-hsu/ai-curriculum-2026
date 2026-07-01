@@ -99,7 +99,7 @@
 
 > 인용 형식: **기관·매체 — 「제목」 (발행일/연도) · URL** / 확인일 2026-06-27
 
-- **kisia.or.kr** — 「정보보호산업 실태조사」 · <http://kisia.or.kr>
+- **한국정보보호산업협회(KISIA)** — 「국내 정보보호산업 실태조사」(연례 발간) · <https://www.kisia.or.kr> · 확인일 2026-07-01 (※ 홈 도메인 기준 — 해당 연도 보고서 원문 permalink 확보 권장)
 - **과기정통부·KISA** — 「제로트러스트 가이드라인 2.0」
 - **privacy.go.kr** — 「정부·기관 자료」 · <http://privacy.go.kr>
 - **사이버보안 인력수급 실태조사** — 「사이버보안 인력수급 실태조사」
@@ -109,7 +109,7 @@
 - **boannews** — 「자격증 우대 분석」
 - **fsec.or.kr** — 「채용·역량 자료」 · <http://fsec.or.kr>
 - **owasp.org** — 「LLM Top 10」 · <http://owasp.org>
-- **ncs.go.kr** — 「채용·역량 자료」 · <http://ncs.go.kr>
+- **국가직무능력표준(NCS)** — 「정보보호 직무 능력단위·채용 자료」 · <https://www.ncs.go.kr> · 확인일 2026-07-01 (※ 홈 도메인 기준 — 해당 직무분류 상세 페이지 permalink 확보 권장)
 - **careers.kakao.com** — 「채용 직무」 · <http://careers.kakao.com>
 - **coupang.jobs** — 「채용 직무」 · <http://coupang.jobs>
 
