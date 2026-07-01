@@ -135,7 +135,7 @@
 - **고용노동부·한국고용정보원** — 중장기 인력수급 전망(2024~2034, 2023~2033) · AI 디지털 전환 고용구조 재편 전망
 - **통계청·고용노동부** — 고용동향 (2025)
 
-### 8-1. 원자료 (raw data)
+### 9-1. 원자료 (raw data)
 
 ??? note "차트 원자료 펼치기 · `reported`(출처 보고값)/`estimated`(역산 추정값) 구분"
 
@@ -150,3 +150,37 @@
 
     - `~` 접두 또는 estimated = 인접 연도·성장률로 역산한 추정값(차트의 흐린/사각 마커).
     - 추세선은 3개 연도 선형회귀(`numpy.polyfit`, deg=1) 기울기. 원본 데이터·차트 코드: GitHub `parclab-hsu/tech-trends-2024-2026`.
+
+### 9-2. 주요 참고 출처 (1차·준1차 · Fact Check 2026-07-01 검증)
+
+> 아래는 본 사이트 거시 수치·기술 트렌드의 **1차 또는 준1차 출처**로, 2026-07-01 Fact Check에서 방향·수치 일치가 확인된 항목이다. 인용 형식: **기관 — 「제목」 (발행일/연도) · URL · 확인일 2026-07-01**.
+
+**정부·국제기구 (고용·인력수급)**
+
+- **고용노동부** — 「2024–2034 중장기 인력수급 전망」 (2026-02-12) · <https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18965> · 확인일 2026-07-01
+- **고용노동부·한국직업능력연구원** — 「신기술 인력수급 전망」 (2023-08-31) · <https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=15458> · 확인일 2026-07-01
+- **WEF(세계경제포럼)** — 「Future of Jobs Report 2025」 (2025) · <https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/> · 확인일 2026-07-01
+- **BLS(미국 노동통계국)** — 「Employment Projections 2024–2034 Overview」 (2025-08-28) · <https://www.bls.gov/opub/mlr/2026/article/industry-and-occupational-employment-projections-overview.htm> · 확인일 2026-07-01
+- **BLS** — 「Occupational Projections and Characteristics (Table)」 · <https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm> · 확인일 2026-07-01
+
+**기술 트렌드·시장 (Gartner·시장조사)**
+
+- **Gartner** — 「Top Strategic Technology Trends 2024」 (2023-10-16) · <https://www.gartner.com/en/newsroom/press-releases/2023-10-16-gartner-identifies-the-top-10-strategic-technology-trends-for-2024> · 확인일 2026-07-01
+- **Gartner** — 「Agentic AI (2025)」 · <https://www.gartner.com/en/documents/5850847> · 확인일 2026-07-01
+- **Gartner** — 「Top Strategic Technology Trends 2026」 (2025-10-20) · <https://www.gartner.com/en/newsroom/press-releases/2025-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2026> · 확인일 2026-07-01
+- **Gartner** — 「Worldwide AI Spending $2.5T in 2026」 (2026-01-15) · <https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026> · 확인일 2026-07-01
+- **Gartner** — 「40%+ of Agentic AI Projects Canceled by 2027」 (2025-06-25) · <https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027> · 확인일 2026-07-01
+- **MarketsandMarkets** — 「Physical AI Market」 (좁은 정의: 2026 $1.50B → 2032 $15.24B) · <https://www.marketsandmarkets.com/PressReleases/physical-ai.asp> · 확인일 2026-07-01
+- **Fortune Business Insights** — 「Humanoid Robots Market」 · <https://www.fortunebusinessinsights.com/humanoid-robots-market-110188> · 확인일 2026-07-01
+- **NVIDIA** — 「Physical AI: Three-Computer Solution」 · <https://blogs.nvidia.com/blog/three-computers-robotics/> · 확인일 2026-07-01
+- **OpenAI Help Center** — 「What to know about the Sora discontinuation」 (웹/앱 2026-04-26, API 2026-09-24 종료) · <https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation> · 확인일 2026-07-01
+
+**규제·표준 (AI 거버넌스)**
+
+- **국가법령정보센터** — 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」 (2026-01-22 시행) · <https://www.law.go.kr/lsInfoP.do?lsiSeq=268543> · 확인일 2026-07-01
+- **European Commission** — 「AI Act (Regulatory Framework)」 (전면 적용 2026-08-02) · <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai> · 확인일 2026-07-01
+- **OWASP** — 「Top 10 for LLM Applications」 · <https://owasp.org/www-project-top-10-for-large-language-model-applications/> · 확인일 2026-07-01
+- **C2PA(Coalition for Content Provenance and Authenticity)** — 「Content Credentials」 · <https://c2pa.org/> · 확인일 2026-07-01
+
+!!! note "재현성·한계"
+    실시간 채용 플랫폼(사람인·잡코리아·원티드·LinkedIn)의 개별 공고 수는 로그인·WAF·동적 렌더링·조회 시점에 따라 달라져 본 사이트는 독립 재집계하지 않고 **출처 재현성 기준**으로 평가했다([공통 채용 데이터 출처 · 채용공고 스냅샷 기준](data-sources.md#5-fact-check-2026-07)). 시장조사기관 수치는 **정의·범위·발표시점이 명시된 경우만 '확인'**, 여러 시장을 합친 광의 추정은 '부분 확인'으로 구분한다.
