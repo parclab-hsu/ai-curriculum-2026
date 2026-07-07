@@ -15,6 +15,7 @@
 | 보강 | 강원대 HIGH를 **Haeram In Growth Hub 인재양성통합시스템**으로 정정, 독립 확인 반영 | `d6ffa55` |
 | 수정 | 강원대 HIGH URL 정정(`hight` → `high.kangwon.ac.kr`) | `4ea9e19` |
 | 보강 | **8개 도입 사례 전부 확인원·URL 반영** — 경동대 온사람인재통합관리시스템·서원대 SEMS+ 공식 포털 실재 확인, 인천 MODU-IN(모두인) 인천 I-RISE 통합 플랫폼(다인리더스 구축) 언론 확인 | `1e8554f` |
+| 보강 | **4장 도입 사례 표에 시스템 화면 스크린샷 열 추가**(6곳: CIEAT·THE조아·SEMS+·HIGH·온사람·PAMS 직접 캡처, ALPS·MODU-IN은 로그인/미공개로 표기) | — |
 
 ## 2026-07-02 — FAQ 협의회 Q&A 반영
 
