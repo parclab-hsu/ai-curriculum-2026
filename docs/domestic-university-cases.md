@@ -136,7 +136,7 @@
 - **POSTECH** — 「포스테키안 활동 통합관리 시스템(PAMS)」 · <https://pams.postech.ac.kr/postech/client/index.do> · 확인일 2026-07-07
 - **충북대학교** — 「CIEAT(씨앗)」 · <https://cieat.cbnu.ac.kr/> · 확인일 2026-07-07
 - **조선대학교** — 「THE조아」 · <https://thechoa.chosun.ac.kr/> · 확인일 2026-07-07
-- **강원대학교** — 「HIGH(Haeram In Growth Hub) 인재양성통합시스템」 · <https://hight.kangwon.ac.kr/clientMain/a/t/main.do> · 확인일 2026-07-07
+- **강원대학교** — 「HIGH(Haeram In Growth Hub) 인재양성통합시스템」 · <https://high.kangwon.ac.kr/clientMain/a/t/main.do> · 확인일 2026-07-07
 - **유비온** — 「코스모스(Coursemos) 통합 솔루션」 · <http://www.ubion.co.kr/ubion/business_coursemos> · 확인일 2026-07-07
 - **숭실대학교** — 「학생활동이력통합관리시스템(SSU-PATH)」 · <http://biz.ssu.ac.kr/> · 확인일 2026-07-07
 - **한밭대학교** — 「H-CAN 핵심역량 관리시스템」 · <https://hcan.hanbat.ac.kr/> · 확인일 2026-07-07
